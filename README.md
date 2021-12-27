@@ -25,7 +25,7 @@ My dotfiles are based on following amazing dotfiles:
 Run follow command:
 
 ```
-sh -c "`curl -fSs https://raw.githubusercontent.com/marciocavarzeri/dotfiles/master/install.sh`"
+sh -c "`curl -fSs https://raw.githubusercontent.com/pablicio/dotfiles/master/install.sh`"
 ```
 
 Type your password to change your default shell to `zsh`

@@ -36,7 +36,7 @@ then
       return
       ;;
   esac
-  git clone --depth=10 https://github.com/marciocavarzeri/dotfiles.git "$HOME/.dotfiles"
+  git clone --depth=10 https://github.com/pablicio/dotfiles.git "$HOME/.dotfiles"
   cd "$HOME/.dotfiles"
   rake install
 else
